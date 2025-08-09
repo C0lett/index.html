@@ -2,11 +2,11 @@
 <html>
 <head>
 <title>mi primera web</title>
-<link rel="icon" href="ameri.jpeg" =type"image/jpeg">
+<link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6ptDOg5mRg2AUmIAA3L_Qboa_BN7wIKTHA&s" =type"image/jpeg">
 </head>
 <body style="background-color:#4E91CC">
 <h1>"mi primera web"</h1>
 <p>nicole y brenda</p>
-<img src ="duko.jpeg" width=50px height=50px>
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiHDKpmjas44dTdoxs1eNtzETe3vZLKdNhA&s" width=50px height=50px>
 </body>
 </html>
