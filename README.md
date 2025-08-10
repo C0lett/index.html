@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>mi primera web</title>
-<link rel="icon" href="ameri.jpg"=type"image/jpg">
+<link rel="icon" href="ameri.jpeg"=type"image/jpeg">
 </head>
 <body style="background-color:#4E91CC">
 <h1>"mi primera web"</h1>
